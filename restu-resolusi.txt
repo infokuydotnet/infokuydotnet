@@ -3,4 +3,4 @@ Restu Kersana Resolusi 2020
 -- Belajar ReactJS
 -- Belajar NodeJS
 -- Belajar CSS Lebih Jauh Lagi
--- Membuat Landing Page Sederhana
+-- Membuat Landing Page Kompleks
