@@ -3,3 +3,4 @@ Rencaana Baru Restu Kersana
 -- Belajar AngularJS
 -- Belajar PWA (Progressive Web App)
 -- Belajar React Native
+-- Belajar Tailwind CSS
