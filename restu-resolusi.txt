@@ -1,6 +1,0 @@
-Restu Kersana Resolusi 2020
--- Belajar Git & Github
--- Belajar ReactJS
--- Belajar NodeJS
--- Belajar CSS Lebih Jauh Lagi
--- Membuat Landing Page Kompleks
